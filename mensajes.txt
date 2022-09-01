@@ -1,0 +1,54 @@
+[
+   {
+      "author": {
+         "id": "menganito@gmail.com",
+         "nombre": "Mengano",
+         "apellido": "M",
+         "edad": "29",
+         "alias": "menganito",
+         "avatar": "",
+         "time": "24/8/2022, 22:32:55"
+      },
+      "text": "Hola! bien por aca y vos?",
+      "id": 1
+   },
+   {
+      "author": {
+         "id": "fulanito@gmail.com",
+         "nombre": "Fulano",
+         "apellido": "F",
+         "edad": "",
+         "alias": "fulanito",
+         "avatar": "",
+         "time": "24/8/2022, 22:34:01"
+      },
+      "text": "Hola buenas noches!",
+      "id": 2
+   },
+   {
+      "author": {
+         "id": "fulanito@gmail.com",
+         "nombre": "Fulano",
+         "apellido": "F",
+         "edad": "36",
+         "alias": "fulanito",
+         "avatar": "",
+         "time": "24/8/2022, 22:41:03"
+      },
+      "text": "Y sultanito como anda?",
+      "id": 3
+   },
+   {
+      "author": {
+         "id": "fulanito@gmail.com",
+         "nombre": "Fulano",
+         "apellido": "F",
+         "edad": "29",
+         "alias": "fulanito",
+         "avatar": "",
+         "time": "31/8/2022, 22:21:51"
+      },
+      "text": "Hay alguien?",
+      "id": 4
+   }
+]
