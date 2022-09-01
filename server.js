@@ -32,10 +32,6 @@ const io = new Socket(httpServer);
 app.use('/', router);
 app.use('/login',viewsRouter);
 
-// let mongoURL='mongodb+srv://test:<password>@cluster0.flm7x.mongodb.net/?retryWrites=true&w=majority'
-
-// const connection=mongoose.connect('mongodb+srv://test:123@cluster0.flm7x.mongodb.net/loginBase?retryWrites=true&w=majority')
-
 //app.use('/api/sessions',sessionRouter);
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
